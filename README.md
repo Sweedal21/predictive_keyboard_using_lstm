@@ -1,4 +1,4 @@
-```markdown
+
 # ⌨️ Predictive Keyboard with PyTorch & Streamlit
 
 This project is a text autocompletion application that suggests the next word as you type. It uses an LSTM (Long Short-Term Memory) model built with PyTorch, trained on a text corpus. The project features a simple command-line interface for testing and a polished, interactive web application built with Streamlit.
